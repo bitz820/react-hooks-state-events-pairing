@@ -17,6 +17,36 @@ const video = {
       user: "gaeron",
       comment: "What a great tutorial!",
     },
+    {
+      id: 3,
+      user: "JOHN",
+      comment: "Blahh blahh!",
+    },
+    {
+      id: 4,
+      user: "pepe",
+      comment: "Oppppps!",
+    },
+    {
+      id: 5,
+      user: "dodo",
+      comment: "heyo heyo heyo!",
+    },
+    {
+      id: 6,
+      user: "christiani",
+      comment: "What is up my gurl",
+    },
+    {
+      id: 7,
+      user: "marky",
+      comment: "lasdjf;laskjflaskjdf",
+    },
+    {
+      id: 8,
+      user: "brian",
+      comment: "!!!!!!!1",
+    },
   ],
 };
 
